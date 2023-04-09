@@ -1,0 +1,1 @@
+_En esta carpteta se estara alamacenando la Imagen de Remove.bg_
